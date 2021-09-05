@@ -1,3 +1,3 @@
 # Simple jQuery slider
 
-Deploy link:
+Deploy link: https://j-query-slider.vercel.app/
